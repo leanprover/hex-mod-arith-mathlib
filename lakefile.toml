@@ -9,7 +9,7 @@ leanOptions = [
 [[require]]
 name = "HexModArith"
 git = "https://github.com/leanprover/hex-mod-arith.git"
-rev = "e32dbcb49f4e91e6ba357f1235ecb2b0c81e4753"
+rev = "f596fb8e046e187e039993747e34e4d4337b0cef"
 
 [[require]]
 name = "mathlib"
